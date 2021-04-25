@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9196f84-4c12-47d7-9d41-815403b28527" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../GWON/GwonTalk/app/src/main/java/com/fb/gwontalk/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/GwonTalk/app/src/main/java/com/fb/gwontalk/SuccessActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/GwonTalk/app/src/main/res/layout/activity_success2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/MyApplication/app/src/main/java/com/example/myapplication/MainAc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/.idea/socket.io_android-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/androidTest/java/com/junga/socketio_android/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/java/com/junga/socketio_android/ChatRoomActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/java/com/junga/socketio_android/ChatRoomAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/java/com/junga/socketio_android/EntranceActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/java/com/junga/socketio_android/Models.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/java/com/junga/socketio_android/model/enum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/chat_edittext_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/chat_partner_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/chat_user_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/dummy_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/dummy_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/left_arrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/paper_plane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/start_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/drawable/start_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/font/mont_extralight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/font/mont_light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/font/mont_medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/layout/activity_chatroom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/layout/activity_entrance.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/layout/chat_into_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/layout/row_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/layout/row_chat_partner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/layout/row_chat_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GWON/socket.io_android-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+ 
